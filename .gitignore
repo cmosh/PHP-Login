@@ -10,5 +10,4 @@ Thumbs.db
 /nbproject/private/
 login/vendor*
 login/dbconf.php
-composer.lock
 install/cache
